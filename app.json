@@ -1,0 +1,24 @@
+{
+  "id": "16009673-c5a8-408b-8e3d-24d0ded48a55",
+  "name": "Demo",
+  "publisher": "operez",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "features": ["TranslationFile"]
+}
