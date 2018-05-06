@@ -3,7 +3,15 @@ pageextension 50105 ItemCardExt extends "Item Card"
     layout
     {
         // Add changes to page layout here
-        
+        addlast(Item)
+        {
+            field(Vehiculo; Vehiculo)
+            {
+                ApplicationArea = All;
+                CaptionML = ESP = 'Vehículo';
+            }
+        }
+
     }
     
     actions
@@ -29,7 +37,4 @@ pageextension 50105 ItemCardExt extends "Item Card"
     begin
         Message('Hola ' + UserId()+ '!');   
     end;
-    
-    var
-        myInt: Integer;
 }
