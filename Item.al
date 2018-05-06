@@ -8,8 +8,6 @@ tableextension 50100 ItemExt extends Item
             DataClassification = ToBeClassified;
         }
         // Add changes to table fields here
-
-
     }
     
     var
